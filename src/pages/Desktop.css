@@ -1,0 +1,362 @@
+.graduation-hat-icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.span {
+  font-size: var(--tutedude-typography-body-small-size);
+  font-weight: 500;
+}
+.iit-delhi {
+  font-weight: 600;
+}
+.span1 {
+  font-size: var(--tutedude-typography-body-small-size);
+  font-weight: 500;
+}
+.an-iit-delhi-container {
+  height: 30px;
+  position: relative;
+  display: inline-block;
+}
+.alumni-description {
+  border-radius: var(--br-base);
+  background-color: var(--color-white);
+  border: 1px solid var(--web-orange-500);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base) var(--padding-4xl);
+  gap: var(--gap-5xs);
+  white-space: nowrap;
+  max-width: 100%;
+}
+.span2 {
+  color: var(--color-black);
+}
+.data-science-with {
+  color: var(--eminence-700);
+}
+.become-an-expert-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.03em;
+  line-height: 134.35%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.extensive-online-courses {
+  font-weight: 500;
+}
+.a-specially-crafted-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--tutedude-typography-label-medium-size);
+  color: var(--woodsmoke-800);
+}
+.become-an-expert-in-the-field-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  font-size: 64px;
+  color: var(--color-dimgray-100);
+}
+.award-star-icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.personal-mentorship {
+  position: relative;
+  font-size: var(--tutedude-typography-body-small-size);
+  letter-spacing: -0.03em;
+  font-weight: 500;
+  font-family: var(--tutedude-typography-body-small);
+  color: var(--web-orange-700);
+  text-align: left;
+}
+.benefit-icons {
+  cursor: pointer;
+  border: 1px solid var(--web-orange-100);
+  padding: var(--padding-3xs) var(--padding-mini) var(--padding-3xs)
+    var(--padding-2xs);
+  background-color: var(--web-orange-50);
+  border-radius: var(--br-81xl);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-7xs);
+  white-space: nowrap;
+}
+.award-star-parent:hover,
+.benefit-icons:hover,
+.payment:hover {
+  background-color: var(--color-antiquewhite);
+  border: 1px solid var(--color-wheat);
+  box-sizing: border-box;
+}
+.award-star-icon1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.internship-assistance {
+  position: relative;
+  font-size: var(--tutedude-typography-body-small-size);
+  letter-spacing: -0.03em;
+  font-weight: 500;
+  font-family: var(--tutedude-typography-body-small);
+  color: var(--web-orange-700);
+  text-align: left;
+}
+.payment {
+  cursor: pointer;
+  border: 1px solid var(--web-orange-100);
+  padding: var(--padding-3xs) var(--padding-mini) var(--padding-3xs)
+    var(--padding-2xs);
+  background-color: var(--web-orange-50);
+  border-radius: var(--br-81xl);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-7xs);
+  white-space: nowrap;
+}
+.award-star-icon2 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.industry-certified-courses {
+  position: relative;
+  font-size: var(--tutedude-typography-body-small-size);
+  letter-spacing: -0.03em;
+  font-weight: 500;
+  font-family: var(--tutedude-typography-body-small);
+  color: var(--web-orange-700);
+  text-align: left;
+}
+.award-star-parent {
+  cursor: pointer;
+  border: 1px solid var(--web-orange-100);
+  padding: var(--padding-3xs) var(--padding-mini) var(--padding-3xs)
+    var(--padding-2xs);
+  background-color: var(--web-orange-50);
+  border-radius: var(--br-81xl);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-7xs);
+  white-space: nowrap;
+}
+.alumni-initiative,
+.benefit-icons-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.benefit-icons-parent {
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 0 var(--padding-28xl) 0 0;
+  gap: var(--gap-sm);
+}
+.alumni-initiative {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-5xl);
+  max-width: 100%;
+}
+.enroll-now {
+  position: relative;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+  font-family: var(--tutedude-typography-body-small);
+  color: var(--eminence-50);
+  text-align: left;
+  display: inline-block;
+  min-width: 95px;
+}
+.fi-br-paper-plane-icon {
+  height: 22px;
+  width: 22px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.enroll-now-parent {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-5xl) var(--padding-29xl);
+  background-color: transparent;
+  box-shadow: 0 8px 48px -10px rgba(153, 46, 157, 0.5);
+  border-radius: var(--br-xl);
+  background: linear-gradient(180deg, #b73bbe, #992e9d);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-7xs);
+  white-space: nowrap;
+}
+.know-more {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 101px;
+}
+.fi-br-interrogation-icon {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.action-buttons,
+.solidbuttom {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.solidbuttom {
+  border-radius: var(--br-base);
+  overflow: hidden;
+  justify-content: center;
+  padding: var(--padding-5xl);
+  gap: var(--gap-7xs);
+}
+.action-buttons {
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+  max-width: 100%;
+  font-size: var(--font-size-lg);
+  color: var(--eminence-700);
+}
+.find-your-offer,
+.find-your-offer-wrapper {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.find-your-offer {
+  width: 766px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-13xl);
+}
+.find-your-offer-wrapper {
+  width: 1022px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.enrollment-content,
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.header {
+  align-self: stretch;
+  gap: 62px;
+  text-align: left;
+  font-size: var(--tutedude-typography-label-medium-size);
+  color: var(--woodsmoke-800);
+  font-family: var(--tutedude-typography-body-small);
+}
+.enrollment-content {
+  width: 1184px;
+  gap: 96px;
+}
+.desktop-2,
+.enrollment-content-wrapper {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.enrollment-content-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  max-width: 100%;
+}
+.desktop-2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 100px;
+  gap: 101px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1225px) {
+  .enrollment-content {
+    gap: 48px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .become-an-expert-container {
+    font-size: 51px;
+    line-height: 69px;
+  }
+  .benefit-icons-parent {
+    padding-right: var(--padding-4xl);
+    box-sizing: border-box;
+  }
+  .header {
+    gap: 31px;
+  }
+  .enrollment-content {
+    gap: var(--gap-5xl);
+  }
+  .desktop-2 {
+    gap: 50px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .become-an-expert-container {
+    font-size: var(--font-size-19xl);
+    line-height: 52px;
+  }
+  .a-specially-crafted-container {
+    font-size: var(--tutedude-typography-body-small-size);
+  }
+  .action-buttons {
+    flex-wrap: wrap;
+  }
+  .find-your-offer {
+    gap: var(--gap-base);
+  }
+  .header {
+    gap: var(--gap-mini);
+  }
+  .desktop-2 {
+    gap: 25px;
+  }
+}

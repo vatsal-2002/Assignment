@@ -1,0 +1,166 @@
+.data-scientist,
+.span3 {
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.data-scientist {
+  background-clip: text;
+  -webkit-background-clip: text; /* For Safari */
+  color: transparent;
+  background-image: linear-gradient(92.04deg, #b73bbe, #ebcb2e);
+}
+.logo2,
+.top-companies-hiring-container {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.03em;
+  font-family: inherit;
+  display: inline-block;
+}
+.top-companies-hiring-container {
+  width: 893px;
+  font-weight: 700;
+  max-width: 100%;
+  box-sizing: border-box;
+  padding-left: var(--padding-xl);
+  padding-right: var(--padding-xl);
+}
+.logo2 {
+  align-self: stretch;
+  width: 74px;
+  line-height: 125%;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.logo-container1,
+.logo-container2,
+.logo-container3,
+.logo-container4,
+.logo-container5,
+.logo-container6 {
+  height: 133px;
+  width: 257px;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-27xl-5) var(--padding-xl);
+  box-sizing: border-box;
+}
+.logo-container2,
+.logo-container3,
+.logo-container4,
+.logo-container5,
+.logo-container6 {
+  border: 0;
+  outline: 0;
+  padding: var(--padding-27xl-5) var(--padding-72xl-5);
+  font-family: var(--tutedude-typography-body-small);
+  font-weight: 500;
+  font-size: var(--font-size-13xl);
+  color: var(--tutedude-color-neutral-20-100);
+}
+.logo3 {
+  margin: 0;
+  align-self: stretch;
+  width: 74px;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.03em;
+  line-height: 125%;
+  text-transform: capitalize;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+}
+.company-logos,
+.logo-container7 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.logo-container7 {
+  height: 133px;
+  width: 257px;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: var(--padding-27xl-5) var(--padding-xl);
+  box-sizing: border-box;
+}
+.company-logos {
+  width: 1440px;
+  overflow-x: auto;
+  gap: var(--gap-3xl);
+  max-width: 100%;
+  font-size: var(--font-size-13xl);
+}
+.hiring-companies,
+.hiring-companies-wrapper {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.hiring-companies {
+  background-color: var(--web-orange-50);
+  flex-direction: column;
+  align-items: center;
+  padding: 40px;
+  gap: var(--gap-9xl);
+}
+.hiring-companies-wrapper {
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 var(--padding-72xl);
+  text-align: center;
+  font-size: var(--tutedude-typography-heading-large-size);
+  color: var(--tutedude-color-neutral-20-100);
+  font-family: var(--tutedude-typography-body-small);
+}
+@media screen and (max-width: 750px) {
+  .top-companies-hiring-container {
+    font-size: var(--font-size-19xl);
+  }
+  .logo2,
+  .logo3 {
+    font-size: var(--font-size-7xl);
+    line-height: 32px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .top-companies-hiring-container {
+    font-size: var(--font-size-10xl);
+  }
+  .logo2 {
+    font-size: var(--font-size-lgi);
+    line-height: 24px;
+  }
+  .logo-container1,
+  .logo-container2,
+  .logo-container3,
+  .logo-container4,
+  .logo-container5,
+  .logo-container6 {
+    width: calc(100% - 40px);
+  }
+  .logo3 {
+    font-size: var(--font-size-lgi);
+    line-height: 24px;
+  }
+  .logo-container7 {
+    width: calc(100% - 40px);
+  }
+  .hiring-companies-wrapper {
+    padding-bottom: var(--padding-40xl);
+    box-sizing: border-box;
+  }
+}

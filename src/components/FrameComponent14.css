@@ -1,0 +1,85 @@
+.text2 {
+  width: 241px;
+  position: relative;
+  font-size: var(--tutedude-typography-label-small-2-size);
+  letter-spacing: -0.02em;
+  font-weight: 500;
+  font-family: var(--tutedude-typography-body-small);
+  color: var(--eminence-700);
+  text-align: center;
+  display: inline-block;
+}
+.text-wrapper {
+  cursor: pointer;
+  border: 1px solid var(--eminence-200);
+  padding: var(--padding-sm) var(--padding-15xl) var(--padding-xs);
+  background-color: var(--eminence-100);
+  align-self: stretch;
+  border-radius: var(--br-981xl);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.full-stack-developer {
+  background: linear-gradient(89.81deg, #992e9d, #ffa50b);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.full-stack-developer-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.03em;
+  line-height: 125%;
+  text-transform: capitalize;
+  font-weight: 700;
+  font-family: inherit;
+}
+.curriculum-header {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-2xl);
+}
+.course-curriculum1,
+.course-curriculum2,
+.curriculum-details,
+.curriculum-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.curriculum-details {
+  align-self: stretch;
+  border-radius: var(--br-xl);
+  border: 1px solid var(--color-darkslategray-100);
+  overflow: hidden;
+  flex-direction: column;
+  text-align: left;
+  font-size: var(--tutedude-typography-label-medium-size);
+}
+.course-curriculum1,
+.course-curriculum2 {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.course-curriculum2 {
+  flex: 1;
+  background-color: var(--eminence-50);
+  overflow: hidden;
+  flex-direction: column;
+  padding: var(--padding-25xl) var(--padding-5xl);
+  gap: var(--gap-21xl);
+}
+.course-curriculum1 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 var(--padding-12xl);
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--woodsmoke-700);
+  font-family: var(--tutedude-typography-body-small);
+}

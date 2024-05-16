@@ -1,0 +1,186 @@
+.login,
+.logo,
+.signup {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 40px;
+}
+.login,
+.signup {
+  min-width: 38px;
+}
+.signup {
+  font-size: var(--tutedude-typography-label-small-2-size);
+  font-family: var(--tutedude-typography-body-small);
+  color: var(--eminence-50);
+  text-align: left;
+  min-width: 50px;
+}
+.heres-a-super-quick-seconds {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-xl);
+  background-color: transparent;
+  box-shadow: 0 8px 24px -10px rgba(153, 46, 157, 0.5);
+  border-radius: var(--br-3xs);
+  background: linear-gradient(180deg, #b73bbe, #992e9d);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.manage-leads-from-multiple-sou,
+.welcome-to-cuelab {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-xs);
+  text-align: right;
+  color: var(--eminence-700);
+}
+.welcome-to-cuelab {
+  align-self: stretch;
+  background-color: var(--color-white);
+  border-bottom: 1px solid var(--woodsmoke-50);
+  justify-content: space-between;
+  padding: 56px var(--padding-5xl) var(--padding-base);
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--tutedude-typography-label-small-2-size);
+  color: var(--color-black);
+  font-family: var(--tutedude-typography-body-small);
+}
+.overview1 {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 56px;
+}
+.overview {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-4xs) 0 var(--padding-3xs);
+}
+.frame-child {
+  align-self: stretch;
+  height: 4px;
+  position: relative;
+  border-radius: var(--br-3xs) var(--br-3xs) 0 0;
+  background-color: var(--web-orange-500);
+}
+.overview-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.curriculum {
+  position: relative;
+  color: var(--woodsmoke-200);
+  display: inline-block;
+  min-width: 67px;
+}
+.testimonials-content {
+  width: 153px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px;
+  color: var(--color-white);
+}
+.refund,
+.testimonials {
+  position: relative;
+  display: inline-block;
+  min-width: 43px;
+}
+.testimonials {
+  min-width: 76px;
+}
+.convert {
+  align-self: stretch;
+  background-color: var(--woodsmoke-900);
+  overflow-x: auto;
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-lgi) 0;
+  gap: var(--gap-xl);
+}
+.convert,
+.limited-offer,
+.offer-content {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.offer-content {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-21xl);
+}
+.limited-offer {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-5xl) 85px;
+}
+.certificates1,
+.internship-opportunities {
+  color: var(--eminence-700);
+}
+.unlock-6-certificates-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.android-large-1,
+.certificates,
+.certificates-content {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.certificates-content {
+  flex: 1;
+  flex-direction: column;
+  gap: 45px;
+}
+.android-large-1,
+.certificates {
+  text-align: left;
+  font-family: var(--tutedude-typography-body-small);
+}
+.certificates {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-5xl);
+  font-size: var(--font-size-5xl);
+  color: var(--woodsmoke-500);
+}
+.android-large-1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  padding: 0 0 100px;
+  box-sizing: border-box;
+  gap: var(--gap-21xl);
+  line-height: normal;
+  letter-spacing: normal;
+  font-size: var(--tutedude-typography-body-small-3-size);
+  color: var(--woodsmoke-200);
+}

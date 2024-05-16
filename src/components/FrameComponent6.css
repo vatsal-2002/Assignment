@@ -1,0 +1,88 @@
+.c,
+.learn-c-for {
+  align-self: stretch;
+  position: relative;
+}
+.c {
+  margin: 0;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+}
+.learn-c-for {
+  font-size: var(--tutedude-typography-label-medium-size);
+  color: var(--woodsmoke-400);
+}
+.c-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xs);
+  min-width: 564px;
+  max-width: 100%;
+}
+.fi-br-eye-icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.text {
+  position: relative;
+  font-size: var(--tutedude-typography-label-medium-size);
+  font-weight: 500;
+  font-family: var(--tutedude-typography-body-small);
+  color: var(--eminence-600);
+  text-align: center;
+}
+.amet-minim-mollit-non-deserunt1,
+.payment-methods {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.payment-methods {
+  cursor: pointer;
+  border: 1px solid var(--eminence-100);
+  padding: var(--padding-lg) var(--padding-4xl);
+  background-color: var(--eminence-50);
+  border-radius: var(--br-981xl);
+  overflow: hidden;
+  gap: var(--gap-3xs);
+  white-space: nowrap;
+}
+.payment-methods:hover {
+  background-color: var(--color-lavender-100);
+  border: 1px solid var(--color-thistle-100);
+  box-sizing: border-box;
+}
+.amet-minim-mollit-non-deserunt1 {
+  align-self: stretch;
+  background-color: var(--color-white);
+  flex-wrap: wrap;
+  padding: var(--padding-9xl);
+  box-sizing: border-box;
+  gap: var(--gap-xs);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--tutedude-typography-heading-small-size);
+  color: var(--woodsmoke-700);
+  font-family: var(--tutedude-typography-body-small);
+}
+@media screen and (max-width: 750px) {
+  .c-parent {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .c {
+    font-size: var(--font-size-3xl);
+  }
+  .learn-c-for {
+    font-size: var(--tutedude-typography-body-small-size);
+  }
+}

@@ -1,0 +1,285 @@
+.bundle-icon {
+  align-self: stretch;
+  width: 100px;
+  position: relative;
+  filter: blur(150px);
+  border-radius: 50%;
+  background-color: var(--color-gray-200);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+}
+.bundle-icon-container {
+  margin-top: -97px;
+  align-self: stretch;
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  flex-shrink: 0;
+}
+.price-discount {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -16px;
+  left: -95px;
+  filter: blur(150px);
+  border-radius: 50%;
+  background-color: var(--color-gray-200);
+}
+.enroll-for-datascience-bundle {
+  margin: 0;
+}
+.span13 {
+  font-size: var(--tutedude-typography-label-medium-size);
+  text-decoration: line-through;
+  font-weight: 500;
+  font-family: var(--tutedude-typography-body-small);
+  color: var(--color-plum);
+}
+.p {
+  margin: 0;
+}
+.enroll-for-datascience-container3 {
+  flex: 1;
+  position: relative;
+  letter-spacing: -0.02em;
+  text-transform: capitalize;
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  z-index: 1;
+}
+.enrollment-price,
+.price-discount-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.price-discount-parent {
+  flex: 1;
+  position: relative;
+}
+.enrollment-price {
+  width: 264px;
+  padding: 0 0 var(--padding-xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-13xl);
+}
+.become-an-expert2 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: -0.03em;
+}
+.icoutline-local-offer-icon2 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.button-icon-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+}
+.enroll-now4 {
+  width: 77px;
+  position: relative;
+  font-size: var(--tutedude-typography-body-small-size);
+  letter-spacing: -0.05em;
+  font-weight: 600;
+  font-family: var(--tutedude-typography-body-small);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  min-width: 77px;
+}
+.data-science-enrollment,
+.enroll-button-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.enroll-button-container {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-xl) var(--padding-55xl-5);
+  background-color: var(--woodsmoke-950);
+  align-self: stretch;
+  border-radius: var(--br-base);
+  overflow: hidden;
+  flex-direction: row;
+  gap: var(--gap-3xs);
+}
+.data-science-enrollment {
+  width: 264px;
+  flex-direction: column;
+  padding: 0 0 var(--padding-3xl);
+  box-sizing: border-box;
+  gap: var(--gap-lg);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  color: var(--eminence-200);
+}
+.divider {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  background-color: var(--color-ghostwhite-100);
+}
+.summary-item-one {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: 4px;
+  left: -86px;
+  filter: blur(150px);
+  border-radius: 50%;
+  background-color: var(--color-gray-200);
+}
+.info-value,
+.total-number-of4 {
+  position: relative;
+  letter-spacing: -0.03em;
+}
+.info-value {
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  display: inline-block;
+  min-width: 15px;
+}
+.info-list {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.div1,
+.total-number-of5 {
+  position: relative;
+  letter-spacing: -0.03em;
+}
+.div1 {
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  display: inline-block;
+  min-width: 15px;
+}
+.info-list1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.access-to-courses2 {
+  position: relative;
+  letter-spacing: -0.03em;
+}
+.lifetime2 {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 89px;
+}
+.course-info,
+.info-list2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.course-info {
+  gap: var(--gap-13xl);
+}
+.summary-list {
+  flex: 1;
+  flex-direction: column;
+  z-index: 1;
+}
+.course-summary-container,
+.summary,
+.summary-items,
+.summary-list {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.summary-items {
+  align-self: stretch;
+  flex-direction: row;
+  position: relative;
+}
+.course-summary-container,
+.summary {
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.summary {
+  align-self: stretch;
+  gap: var(--gap-9xl);
+  debug_commit: 1de1738;
+}
+.course-summary-container {
+  width: 264px;
+  padding: var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+}
+.summary-item-two {
+  height: 100px;
+  width: 100px;
+  position: relative;
+  filter: blur(150px);
+  border-radius: 50%;
+  background-color: var(--color-gray-200);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+}
+.course-details {
+  width: 312px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xs);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+}
+.scribble-final-version-243 {
+  width: 220.2px;
+  height: 215.9px;
+  position: absolute;
+  margin: 0 !important;
+  top: -15px;
+  right: -555.2px;
+  object-fit: contain;
+}
+.enrollment-offer {
+  align-self: stretch;
+  height: 698px;
+  box-shadow: 0 20px 250px -20px rgba(151, 71, 255, 0.15);
+  border-radius: var(--br-5xl);
+  background: linear-gradient(180deg, #b73bbe, #992e9d);
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xl) var(--padding-10xs) var(--padding-5xl)
+    var(--padding-5xl);
+  box-sizing: border-box;
+  position: relative;
+  text-align: left;
+  font-size: var(--tutedude-typography-body-small-size);
+  color: var(--eminence-50);
+  font-family: var(--tutedude-typography-body-small);
+}

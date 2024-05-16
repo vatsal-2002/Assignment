@@ -1,0 +1,229 @@
+.wrapper-group-1000015032-child {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: scale(1.62);
+}
+.wrapper-group-1000015032 {
+  height: 1290px;
+  width: 1637px;
+  position: absolute;
+  margin: 0 !important;
+  top: -284px;
+  left: -227px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 0;
+}
+.span6 {
+  font-size: var(--font-size-13xl);
+  text-decoration: line-through;
+  font-weight: 500;
+  color: var(--woodsmoke-500);
+}
+.become-an-expert,
+.enroll-for-datascience-container {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: -0.03em;
+}
+.enroll-for-datascience-container {
+  text-transform: capitalize;
+}
+.become-an-expert {
+  font-size: var(--tutedude-typography-label-medium-size);
+}
+.enroll-for-datascience-bundle-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.icoutline-local-offer-icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.enroll-now1 {
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.05em;
+  font-weight: 600;
+  font-family: var(--tutedude-typography-body-small);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  min-width: 116px;
+}
+.icoutline-local-offer-parent {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-5xl) var(--padding-29xl) var(--padding-5xl)
+    var(--padding-21xl);
+  background-color: var(--woodsmoke-950);
+  width: 238px;
+  border-radius: var(--br-xl);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+  white-space: nowrap;
+}
+.icoutline-local-offer-parent:hover {
+  background-color: var(--color-dimgray-200);
+}
+.frame-group {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 40px;
+  box-sizing: border-box;
+  gap: var(--gap-5xl);
+  min-width: 350px;
+  max-width: 100%;
+  z-index: 1;
+}
+.course-number,
+.total-number-of {
+  position: relative;
+  letter-spacing: -0.03em;
+}
+.course-number {
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  display: inline-block;
+  min-width: 15px;
+}
+.total-number-of-courses-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.certificate-amount,
+.total-number-of1 {
+  position: relative;
+  letter-spacing: -0.03em;
+}
+.certificate-amount {
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  display: inline-block;
+  min-width: 15px;
+}
+.bundle-certificate-count {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.access-to-courses {
+  position: relative;
+  letter-spacing: -0.03em;
+}
+.lifetime {
+  position: relative;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  display: inline-block;
+  min-width: 89px;
+}
+.bundle-course-access,
+.bundle-details {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.bundle-details {
+  padding-right: 50px;
+  gap: var(--gap-13xl);
+}
+.bundle-details-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: var(--padding-17xl) 0;
+  box-sizing: border-box;
+  min-width: 350px;
+  min-height: 324px;
+  max-width: 100%;
+  z-index: 1;
+  font-size: var(--tutedude-typography-label-medium-size);
+}
+.enrollment-cards {
+  align-self: stretch;
+  box-shadow: 0 20px 250px -20px rgba(151, 71, 255, 0.15);
+  border-radius: var(--br-29xl);
+  background-color: var(--color-blueviolet);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+  gap: var(--gap-3xs);
+  min-height: 420px;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--tutedude-typography-heading-large-size);
+  color: var(--woodsmoke-950);
+  font-family: var(--tutedude-typography-body-small);
+}
+@media screen and (max-width: 750px) {
+  .enroll-for-datascience-container {
+    font-size: var(--font-size-7xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .enroll-for-datascience-container {
+    font-size: var(--font-size-lgi);
+  }
+  .become-an-expert {
+    font-size: var(--tutedude-typography-body-small-size);
+  }
+  .frame-group {
+    min-width: 100%;
+  }
+  .total-number-of {
+    font-size: var(--tutedude-typography-body-small-size);
+  }
+  .course-number {
+    font-size: var(--font-size-lg);
+  }
+  .total-number-of1 {
+    font-size: var(--tutedude-typography-body-small-size);
+  }
+  .certificate-amount {
+    font-size: var(--font-size-lg);
+  }
+  .access-to-courses {
+    font-size: var(--tutedude-typography-body-small-size);
+  }
+  .lifetime {
+    font-size: var(--font-size-lg);
+  }
+  .bundle-details {
+    gap: var(--gap-base);
+  }
+  .bundle-details-wrapper {
+    min-width: 100%;
+  }
+}

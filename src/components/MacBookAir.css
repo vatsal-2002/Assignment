@@ -1,0 +1,55 @@
+.learning-elements1,
+.learning-elements2,
+.macbook-air-3-child {
+  height: 100px;
+  width: 1px;
+  position: relative;
+  background-color: var(--eminence-200);
+}
+.macbook-air-3 {
+  align-self: stretch;
+  background: linear-gradient(
+    180deg,
+    rgba(183, 59, 190, 0.05),
+    rgba(153, 46, 157, 0.05)
+  );
+  border: 1px solid var(--eminence-100);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: var(--padding-15xl) var(--padding-110xl) var(--padding-15xl)
+    var(--padding-108xl);
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--eminence-700);
+  font-family: var(--tutedude-typography-body-small);
+}
+@media screen and (max-width: 1225px) {
+  .learning-elements1,
+  .learning-elements2,
+  .macbook-air-3-child {
+    width: 100%;
+    height: 1px;
+  }
+  .macbook-air-3 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 750px) {
+  .macbook-air-3 {
+    padding-left: var(--padding-44xl);
+    padding-right: var(--padding-45xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .macbook-air-3 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

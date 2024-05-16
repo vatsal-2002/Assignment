@@ -1,0 +1,333 @@
+.enrollment-info-child {
+  position: absolute;
+  top: 0;
+  left: 181px;
+  filter: blur(250px);
+  border-radius: 50%;
+  background-color: var(--color-gray-200);
+  width: 150px;
+  height: 150px;
+}
+.span7 {
+  font-size: var(--font-size-13xl);
+  text-decoration: line-through;
+  font-weight: 500;
+  color: var(--color-plum);
+}
+.enroll-for-datascience-container2 {
+  width: 100%;
+}
+.enroll-for-datascience-container1 {
+  position: absolute;
+  top: 141px;
+  left: 0;
+  letter-spacing: -0.02em;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  width: 539px;
+}
+.enrollment-info {
+  align-self: stretch;
+  height: 285px;
+  position: relative;
+}
+.become-an-expert1 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--tutedude-typography-label-medium-size);
+  letter-spacing: -0.03em;
+  color: var(--eminence-200);
+}
+.bundle-content {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.icoutline-local-offer-icon1 {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.button-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0 0;
+}
+.enroll-now2 {
+  width: 116px;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.05em;
+  font-weight: 600;
+  font-family: var(--tutedude-typography-body-small);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  min-width: 116px;
+}
+.bundle-details1,
+.enrollment-button {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.enrollment-button {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-5xl) var(--padding-29xl);
+  background-color: var(--woodsmoke-950);
+  width: 254px;
+  border-radius: var(--br-xl);
+  overflow: hidden;
+  flex-direction: row;
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+  z-index: 1;
+}
+.bundle-details1 {
+  width: 539px;
+  flex-direction: column;
+  gap: var(--gap-5xl);
+  max-width: 100%;
+}
+.course-count1,
+.total-number-of2 {
+  position: relative;
+  letter-spacing: -0.03em;
+}
+.course-count1 {
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  display: inline-block;
+  min-width: 15px;
+}
+.course-count {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.certificate-value,
+.total-number-of3 {
+  position: relative;
+  letter-spacing: -0.03em;
+}
+.certificate-value {
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  display: inline-block;
+  min-width: 15px;
+}
+.certificate-count {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.access-to-courses1 {
+  position: relative;
+  letter-spacing: -0.03em;
+}
+.lifetime1 {
+  position: relative;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  display: inline-block;
+  min-width: 89px;
+}
+.course-access,
+.meta-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.meta-content {
+  padding: 0;
+  gap: var(--gap-13xl);
+}
+.scribble-final-version-241 {
+  width: 220.2px;
+  height: 215.9px;
+  position: absolute;
+  margin: 0 !important;
+  top: -63px;
+  left: 50px;
+  object-fit: contain;
+  z-index: 1;
+}
+.bundle-meta,
+.meta-data {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.meta-data {
+  align-self: stretch;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: var(--padding-17xl) 0;
+  position: relative;
+  min-height: 324px;
+}
+.bundle-meta {
+  flex: 1;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-4xl) 0 0;
+  min-width: 365px;
+  max-width: 100%;
+  font-size: var(--tutedude-typography-label-medium-size);
+}
+.frame-child1 {
+  align-self: stretch;
+  height: 150px;
+  position: relative;
+  filter: blur(250px);
+  border-radius: 50%;
+  background-color: var(--color-gray-200);
+}
+.ellipse-wrapper {
+  height: 230px;
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.bundle-details-parent {
+  margin-top: -477px;
+  width: 1264px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 117%;
+}
+.frame-child2,
+.frame-child3 {
+  width: 150px;
+  filter: blur(250px);
+  border-radius: 50%;
+  background-color: var(--color-gray-200);
+}
+.frame-child2 {
+  align-self: stretch;
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+}
+.frame-child3 {
+  height: 150px;
+  position: absolute;
+  margin: 0 !important;
+  top: -54px;
+  left: -120px;
+}
+.ellipse-group,
+.enrollment-cards1 {
+  align-self: stretch;
+  flex-shrink: 0;
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.ellipse-group {
+  height: 150px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 0 0 var(--padding-127xl);
+  position: relative;
+}
+.enrollment-cards1 {
+  height: 420px;
+  box-shadow: 0 20px 250px -20px rgba(151, 71, 255, 0.15);
+  border-radius: var(--br-29xl);
+  background: linear-gradient(180deg, #b73bbe, #992e9d);
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-354xl) var(--padding-29xl) var(--padding-27xl);
+  gap: var(--gap-xs);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--tutedude-typography-heading-large-size);
+  color: var(--eminence-50);
+  font-family: var(--tutedude-typography-body-small);
+}
+@media screen and (max-width: 1225px) {
+  .enrollment-cards1 {
+    height: auto;
+    padding-left: var(--padding-5xl);
+    padding-right: var(--padding-5xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .enrollment-cards1 {
+    padding-top: var(--padding-223xl);
+    padding-bottom: var(--padding-11xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .enroll-for-datascience-container1 {
+    font-size: var(--font-size-7xl);
+  }
+  .bundle-meta {
+    min-width: 100%;
+  }
+  .enrollment-cards1 {
+    padding-top: var(--padding-138xl);
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .enroll-for-datascience-container1 {
+    font-size: var(--font-size-lgi);
+  }
+  .become-an-expert1 {
+    font-size: var(--tutedude-typography-body-small-size);
+  }
+  .enroll-now2 {
+    font-size: var(--font-size-lgi);
+  }
+  .total-number-of2 {
+    font-size: var(--tutedude-typography-body-small-size);
+  }
+  .course-count1 {
+    font-size: var(--font-size-lg);
+  }
+  .total-number-of3 {
+    font-size: var(--tutedude-typography-body-small-size);
+  }
+  .certificate-value {
+    font-size: var(--font-size-lg);
+  }
+  .access-to-courses1 {
+    font-size: var(--tutedude-typography-body-small-size);
+  }
+  .lifetime1 {
+    font-size: var(--font-size-lg);
+  }
+  .meta-content {
+    gap: var(--gap-base);
+  }
+  .ellipse-group {
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

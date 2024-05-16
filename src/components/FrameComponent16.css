@@ -1,0 +1,233 @@
+.graduation-hat-icon1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.span8 {
+  font-weight: 500;
+}
+.iit-delhi1 {
+  font-weight: 600;
+}
+.span9 {
+  font-weight: 500;
+}
+.an-iit-delhi-container1 {
+  position: relative;
+}
+.capture {
+  border-radius: var(--br-base);
+  background-color: var(--color-white);
+  border: 1px solid var(--web-orange-500);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base) var(--padding-9xl);
+  gap: var(--gap-3xs);
+  white-space: nowrap;
+}
+.data-science-with1 {
+  color: var(--eminence-700);
+}
+.become-an-expert-container1 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.03em;
+  line-height: 130%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.a-specially-crafted {
+  font-weight: 500;
+}
+.extensive-online-courses1 {
+  font-weight: 600;
+  color: var(--woodsmoke-700);
+}
+.a-specially-crafted-container1 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--tutedude-typography-body-small-size);
+  color: var(--woodsmoke-500);
+}
+.become-an-expert-in-the-field-group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.personal-mentorship1 {
+  position: relative;
+  font-size: var(--tutedude-typography-body-small-3-size);
+  letter-spacing: -0.03em;
+  font-weight: 500;
+  font-family: var(--tutedude-typography-body-small);
+  color: var(--web-orange-700);
+  text-align: left;
+  display: inline-block;
+  min-width: 117px;
+}
+.main {
+  cursor: pointer;
+  border: 1px solid var(--web-orange-100);
+  padding: var(--padding-7xs) var(--padding-smi) var(--padding-7xs)
+    var(--padding-4xs);
+  background-color: var(--web-orange-50);
+  border-radius: var(--br-81xl);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+}
+.internship-assistance1 {
+  position: relative;
+  font-size: var(--tutedude-typography-body-small-3-size);
+  letter-spacing: -0.03em;
+  font-weight: 500;
+  font-family: var(--tutedude-typography-body-small);
+  color: var(--web-orange-700);
+  text-align: left;
+  display: inline-block;
+  min-width: 123px;
+}
+.benefits-list {
+  cursor: pointer;
+  border: 1px solid var(--web-orange-100);
+  padding: var(--padding-7xs) var(--padding-smi) var(--padding-7xs)
+    var(--padding-4xs);
+  background-color: var(--web-orange-50);
+  border-radius: var(--br-81xl);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+}
+.industry-certified-courses1 {
+  position: relative;
+  font-size: var(--tutedude-typography-body-small-3-size);
+  letter-spacing: -0.03em;
+  font-weight: 500;
+  font-family: var(--tutedude-typography-body-small);
+  color: var(--web-orange-700);
+  text-align: left;
+}
+.effortlessly-manage-collaborat {
+  cursor: pointer;
+  border: 1px solid var(--web-orange-100);
+  padding: var(--padding-7xs) var(--padding-smi) var(--padding-7xs)
+    var(--padding-4xs);
+  background-color: var(--web-orange-50);
+  border-radius: var(--br-81xl);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+}
+.course-benefits,
+.expertise {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.course-benefits {
+  height: 76px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 0 var(--padding-base) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-5xs);
+}
+.expertise {
+  flex-direction: column;
+  gap: var(--gap-xl);
+  font-size: var(--tutedude-typography-title-small-size);
+  color: var(--color-dimgray-100);
+}
+.enroll-now3 {
+  position: relative;
+  font-size: var(--tutedude-typography-body-small-size);
+  font-weight: 600;
+  font-family: var(--tutedude-typography-body-small);
+  color: var(--eminence-50);
+  text-align: left;
+  display: inline-block;
+  min-width: 84px;
+}
+.fi-br-paper-plane-icon1 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.enrollment-buttons {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-xl);
+  background-color: transparent;
+  align-self: stretch;
+  box-shadow: 0 8px 48px -10px rgba(153, 46, 157, 0.5);
+  border-radius: var(--br-base);
+  background: linear-gradient(180deg, #b73bbe, #992e9d);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-xs);
+  white-space: nowrap;
+}
+.know-more1 {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 101px;
+}
+.fi-br-interrogation-icon1 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.enrollment-buttons1 {
+  align-self: stretch;
+  border-radius: var(--br-base);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  gap: var(--gap-7xs);
+  font-size: var(--font-size-lg);
+  color: var(--eminence-700);
+}
+.enrollment {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xl) var(--padding-5xl);
+  gap: var(--gap-9xl);
+  text-align: left;
+  font-size: var(--tutedude-typography-body-small-size);
+  color: var(--woodsmoke-800);
+  font-family: var(--tutedude-typography-body-small);
+}

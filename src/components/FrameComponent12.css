@@ -1,0 +1,320 @@
+.how-does-it1 {
+  margin: 0;
+  width: 209px;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.03em;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+}
+.progress-icon {
+  width: 5px;
+  height: 588px;
+  top: 11px;
+  left: 22px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.empty1,
+.progress-icon,
+.rectangle-icon {
+  position: absolute;
+  margin: 0 !important;
+}
+.rectangle-icon {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.empty1 {
+  top: 15px;
+  left: calc(50% - 4px);
+  letter-spacing: -0.02em;
+  display: inline-block;
+  min-width: 8px;
+  z-index: 1;
+}
+.vector-parent {
+  align-self: stretch;
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  gap: var(--gap-3xs);
+  z-index: 1;
+}
+.b1,
+.frame-child7 {
+  position: absolute;
+  margin: 0 !important;
+}
+.frame-child7 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.b1 {
+  top: 15px;
+  left: calc(50% - 6px);
+  letter-spacing: -0.02em;
+  display: inline-block;
+  min-width: 12px;
+  z-index: 1;
+}
+.vector-group {
+  align-self: stretch;
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  gap: var(--gap-3xs);
+  z-index: 1;
+}
+.b2,
+.frame-child8 {
+  position: absolute;
+  margin: 0 !important;
+}
+.frame-child8 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.b2 {
+  width: 13px;
+  top: 15px;
+  left: calc(50% - 6px);
+  letter-spacing: -0.02em;
+  display: inline-block;
+  min-width: 13px;
+  z-index: 1;
+}
+.progress-steps,
+.vector-container {
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+.vector-container {
+  align-self: stretch;
+  height: 60px;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-3xs);
+  z-index: 1;
+}
+.progress-steps {
+  width: 48px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-204xl);
+}
+.step-14 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: -0.03em;
+  font-weight: 600;
+}
+.image-533-icon1 {
+  height: 69px;
+  width: 102px;
+  position: relative;
+  object-fit: cover;
+}
+.step-images {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-12xs) var(--padding-35xl);
+}
+.start-learning-with1 {
+  font-weight: 500;
+}
+.lifetime-course-access1 {
+  font-weight: 600;
+  color: var(--woodsmoke-950);
+}
+.start-learning-with-container1 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--tutedude-typography-label-small-2-size);
+  color: var(--woodsmoke-900);
+}
+.step-13 {
+  align-self: stretch;
+  border-radius: var(--br-lg);
+  background: linear-gradient(180deg, #fff, #fcf5fe);
+  border: 1px solid var(--eminence-100);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-sm) var(--padding-mini);
+  gap: var(--gap-base);
+}
+.step-2-complete1 {
+  align-self: stretch;
+  font-weight: 600;
+}
+.b3,
+.months-time-from,
+.step-2-complete1 {
+  position: relative;
+  letter-spacing: -0.03em;
+}
+.b3 {
+  display: inline-block;
+  background: linear-gradient(180deg, #ffa50b, #e27900);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  min-width: 20px;
+}
+.months-time-from {
+  flex: 1;
+  font-size: var(--tutedude-typography-body-small-3-size);
+}
+.group {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--woodsmoke-100);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xs) var(--padding-mini);
+  gap: var(--gap-9xs);
+  font-size: var(--font-size-13xl);
+  color: var(--woodsmoke-700);
+}
+.finish-within {
+  font-weight: 500;
+}
+.months {
+  font-weight: 600;
+  color: var(--woodsmoke-950);
+}
+.to-qualify-for1 {
+  font-weight: 500;
+}
+.finish-within-3-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--tutedude-typography-label-small-2-size);
+  color: var(--woodsmoke-900);
+}
+.step-22 {
+  align-self: stretch;
+  border-radius: var(--br-lg);
+  background: linear-gradient(180deg, #fff, #fcf5fe);
+  border: 1px solid var(--eminence-100);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-sm) var(--padding-mini);
+  gap: var(--gap-base);
+}
+.step-3-receive1 {
+  align-self: stretch;
+  font-weight: 600;
+}
+.b4,
+.enrollment-fee-is1,
+.step-3-receive1 {
+  position: relative;
+  letter-spacing: -0.03em;
+}
+.b4 {
+  display: inline-block;
+  background: linear-gradient(180deg, #ffa50b, #e27900);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  min-width: 79px;
+}
+.enrollment-fee-is1 {
+  flex: 1;
+  font-size: var(--tutedude-typography-body-small-3-size);
+}
+.container {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--woodsmoke-100);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-2xs) var(--padding-mini);
+  gap: var(--gap-5xs);
+  font-size: var(--font-size-13xl);
+  color: var(--woodsmoke-700);
+}
+.upon-course-completion1 {
+  font-weight: 500;
+}
+.back1 {
+  font-weight: 600;
+  color: var(--woodsmoke-950);
+}
+.upon-course-completion-container1 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--tutedude-typography-label-small-2-size);
+  color: var(--woodsmoke-900);
+}
+.step-32 {
+  align-self: stretch;
+  border-radius: var(--br-lg);
+  background: linear-gradient(180deg, #fff, #fcf5fe);
+  border: 1px solid var(--eminence-100);
+  overflow: hidden;
+  flex-direction: column;
+  padding: var(--padding-sm) var(--padding-mini);
+  gap: var(--gap-base);
+}
+.how-it-works1,
+.step-32,
+.steps-details,
+.works-content {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.steps-details {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-13xl);
+  text-align: left;
+  font-size: var(--tutedude-typography-body-small-size);
+  color: var(--eminence-800);
+}
+.how-it-works1,
+.works-content {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-3xl);
+  font-size: var(--tutedude-typography-label-medium-size);
+  color: var(--color-white);
+}
+.how-it-works1 {
+  flex-direction: column;
+  align-items: center;
+  gap: var(--gap-21xl);
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--eminence-950);
+  font-family: var(--tutedude-typography-body-small);
+}
